@@ -94,6 +94,10 @@ python autotyper_pro.py
 
 ---
 
+![Alt Text](app_ui.png)
+
+---
+
 ## 🔑 Hotkeys
 
 | Function | Default Key |
