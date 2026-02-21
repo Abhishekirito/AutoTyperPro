@@ -1,3 +1,6 @@
+# ⭐ A new version is added that works perfectly on platforms like CodeTantra
+Now idenatation works perfectly on such platforms, make sure to check ✅strip indentation otherwise the code will be typed with extra indentation.
+
 # 💻 AutoTyper Pro — Desktop App
 
 AutoTyper Pro is a **desktop automation tool** built with Python & Tkinter that automatically types code/text into any window at high speed.  
