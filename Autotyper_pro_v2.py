@@ -134,7 +134,7 @@ def apply_tag_to_pattern(pattern, tag_name, color):
 
 # ---------------- UI ---------------- #
 root = tk.Tk()
-root.title("Auto Typer Pro — by Abhishek")
+root.title("Auto Typer Pro - by Abhishek")
 root.geometry("850x650")
 root.minsize(300, 900)
 
@@ -228,4 +228,5 @@ label_status.pack(side=tk.BOTTOM, fill=tk.X, pady=(10, 0))
 # --- Finalization ---
 bind_hotkeys()
 highlight_code() 
+
 root.mainloop()
